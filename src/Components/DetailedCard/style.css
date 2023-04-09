@@ -1,0 +1,16 @@
+.commentRoot {
+    display: flex;
+    align-items: center;
+}
+
+.commentName {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 5px;
+}
+
+.detailedCardCommetTitle {
+    font-size: 14px;
+    color: #b4b4b4;
+    cursor: pointer;
+}
